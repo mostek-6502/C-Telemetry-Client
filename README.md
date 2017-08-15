@@ -3,7 +3,7 @@ This Visual Studio 2015 C# /.Net Telemetry client is used for receiving controll
 via UDP.  This also sends commands to the controller board in order to dynamically adjust board 
 settings.
 
-This is paired on GitHub with the small secion of the mostek-6502/Controller-C-Code listing.  
+This is paired on GitHub with the small section of the Controller-C-Code listing.  
 This is only useful for the specific controller output; however, there may be meaningful sections 
 of code in this.
 
