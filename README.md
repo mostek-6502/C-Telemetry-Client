@@ -15,5 +15,9 @@ The salient features of the program are:
    of muli-threading in the program.  The program will be upgrade in the near
    term to increase performance.
 
-4. Visual Sudion 2015
+4. Since this was originally written as a 'throw away', there are various
+   structural issues to be addressed for a 'near' production environment.  For instance,
+   objects for each data type, splitting out code from large objects, etc.  
+
+5. Visual Studio 2015
 
