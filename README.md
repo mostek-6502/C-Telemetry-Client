@@ -1,4 +1,11 @@
 # Telemetry-Client
+
+Rick Faszold
+
+XEn, LLC - USA, Missouri (c)
+
+October 11th, 2017
+
 This C# Client accepts real-time data from a micro-controller board.
 
 The micro-controller board outputs 80+ sensor readings in one group of data. In test mode, the board is capable of outputting 1,200 groups per second. In production mode, the board produces less than 50 groups of data per second.
